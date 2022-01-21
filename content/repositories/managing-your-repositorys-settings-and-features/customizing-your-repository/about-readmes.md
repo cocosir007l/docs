@@ -1,68 +1,110 @@
----
-title: About READMEs
-intro: 'You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it.'
-redirect_from:
-  - /articles/section-links-on-readmes-and-blob-pages
-  - /articles/relative-links-in-readmes
-  - /articles/about-readmes
-  - /github/creating-cloning-and-archiving-repositories/about-readmes
-  - /github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
-  ghec: '*'
-topics:
-  - Repositories
----
-## About READMEs
+<div align="center">
 
-You can add a README file to a repository to communicate important information about your project. A README, along with a repository license{% ifversion fpt or ghes > 3.2 or ghae-issue-4651 or ghec %}, citation file{% endif %}{% ifversion fpt or ghec %}, contribution guidelines, and a code of conduct{% elsif ghes %} and contribution guidelines{% endif %}, communicates expectations for your project and helps you manage contributions.
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=FFFFFF&lines=Welcome+to+Lxr_v2+WA+Bot+repo;Created+by+Devil;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
+#### TOTAL REPO VIEWS📍
+![Visitor Count](https://profile-counter.glitch.me/Captainjacksparrow0433/count.svg)
 
-For more information about providing guidelines for your project, see {% ifversion fpt or ghec %}"[Adding a code of conduct to your project](/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)" and {% endif %}"[Setting up your project for healthy contributions](/communities/setting-up-your-project-for-healthy-contributions)."
 
-A README is often the first item a visitor will see when visiting your repository. README files typically include information on:
-- What the project does
-- Why the project is useful
-- How users can get started with the project
-- Where users can get help with your project
-- Who maintains and contributes to the project
 
-If you put your README file in your repository's root, `docs`, or hidden `.github` directory, {% data variables.product.product_name %} will recognize and automatically surface your README to repository visitors.
+ </a>
+</p>
+<div align="center">
+  <p align="center">
+<img src="https://telegra.ph/file/ce038342b49656b7cef44.jpg" alt="GIF" width="300" height="250"/>
+</p>
+  <p align="center">
+<a href="https://github.com/captainjacksparrow0433"><img title="Author" src="https://img.shields.io/badge/Author-Devil-cyberchekuthan/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+</p>
+</div>
+<p align="center">
+Project created by <a href="https://github.com/Captainjacksparrow0433">ᴅͥᴇͭᴠᷤɪᷟʟͤ</a> to make it public
+    <br>
+       | © |
+        Reserved |
+    <br> 
+</p>
 
-![Main page of the github/scientist repository and its README file](/assets/images/help/repository/repo-with-readme.png)
+## Setup
+<div align="center"> 
 
-{% ifversion fpt or ghes or ghec %}
 
-{% data reusables.profile.profile-readme %}
+  ### Simple Method
+  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Captainjacksparrow0433/LXR-v2) 
+  
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Captainjackspar/Jacki-QR)
+  
+### The Hard Method
+```js
+GET QR
+$ apt install git
+$ apt install nodejs --fix-missing
+$ git clone https://github.com/Captainjacksparrow0433/LXR-v2
+$ cd LXR-v2
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node julie.js
+```
+      
+```js
+SETUP
+$ git clone https://github.com/Captainjacksparrow0433/LXR-v2
+$ cd LXR-v2
+$ npm i
+$ node julie.js
+```
 
-{% endif %}
+----
 
-![README file on your username/username repository](/assets/images/help/repository/username-repo-with-readme.png)
+  <p align="center">
+  <a href="httsp://github.com/farhan-dqz/JulieMwol">
+    
+<a href="https://github.com/farhan-dqz/followers">
+<img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
+<p align="center">
+<a href="https://github.com/farhan-dqz/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
+</p>
 
-{% ifversion fpt or ghae or ghes > 3.1 or ghec %}
+## 📢 Guide
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LeSrj5jGdRaLaI0CFYc1GV)
+  <div align="center">
 
-## Auto-generated table of contents for README files
+## Movie and series Group🔗👇
 
-For the rendered view of any Markdown file in a repository, including README files, {% data variables.product.product_name %} will automatically generate a table of contents based on section headings. You can view the table of contents for a README file by clicking the {% octicon "list-unordered" aria-label="The unordered list icon" %}  menu icon at the top left of the rendered page.
+  <a href="https://t.me/filmboxcommunity"><img src="https://img.shields.io/badge/Telegram-Click%20here%20to%20join-blue.svg?logo=telegram"></a>
 
-![README with automatically generated TOC](/assets/images/help/repository/readme-automatic-toc.png)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaptainJacksparrow0433&repo=LXR-v2&theme=nightowl)](https://github.com/Captainjacksparrow0433/LXR-v2)
+  </div>
+   
+### ⚠️ Warning! 
+```
+Due to Userbot; Your WhatsApp account may be banned.
+This is an open source project, you are responsible for everything you do. 
+Absolutely, Asena executives do not accept responsibility.
+By establishing the Asena, you are deemed to have accepted these responsibilities.
+```
 
-{% endif %}
+## Developers
+  <div align="center">
+    
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![AMALSER](https://github.com/Captainjacksparrow0433/LXR-v2/blob/master/photo/amalser.png)](https://github.com/Captainjacksparrow0433) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+----|----|----|----
+[farhan-dqz](https://github.com/farhan-dqz) | [ᴅͥᴇͭᴠᷤɪᷟʟͤ](https://github.com/Captainjacksparrow0433) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
+  </div>
+    
 
-## Section links in README files and blob pages
 
-{% data reusables.repositories.section-links %}
+## License
+This project is protected by `GNU General Public Licence v3.0` license.
 
-## Relative links and image paths in README files
-
-{% data reusables.repositories.relative-links %}
-
-## Wikis
-
-A README should contain only the necessary information for developers to get started using and contributing to your project. Longer documentation is best suited for wikis. For more information, see "[About wikis](/communities/documenting-your-project-with-wikis/about-wikis)."
-
-## Further reading
-
-- "[Adding a file to a repository](/articles/adding-a-file-to-a-repository)"
-- 18F's "[Making READMEs readable](https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md)"
+### Disclaimer
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
